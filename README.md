@@ -7,6 +7,7 @@ Make repo for [smart-tab](https://yazi-rs.github.io/docs/tips/#smart-tab) so tha
 ```sh
 ya pack -a wekauwau/smart-tab
 ```
+
 ## Usage
 
 To bind your <kbd>t</kbd> key to the plugin, add in your `~/.config/yazi/keymap.toml`:
